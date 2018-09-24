@@ -1,4 +1,4 @@
-class Solution:
+class Solution: # O(log10(x))
     def reverse(self, x):
         """
         :type x: int

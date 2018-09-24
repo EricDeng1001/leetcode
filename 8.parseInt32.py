@@ -1,4 +1,4 @@
-class Solution:
+class Solution: # O(len(s))
     def myAtoi(self, s):
         """
         :type s: s
